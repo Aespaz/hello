@@ -1,0 +1,19 @@
+#nav {
+    display: inline-block;
+    color: white;
+    background-color: gray;
+    height: 60px;
+    width: 300px;
+    padding-top: 30px;
+    padding-bottom: 0px;
+    font-size: large;
+    border-radius: 10px;
+}
+#nav li {
+    display: inline-block;
+
+
+}
+#nav a {
+    color: white;
+}
